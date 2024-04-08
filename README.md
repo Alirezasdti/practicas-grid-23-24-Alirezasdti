@@ -1,2 +1,2 @@
-# practicas-grid-23-24-Alirezasdti
+# openmp work
 exercises for computing and super computing
