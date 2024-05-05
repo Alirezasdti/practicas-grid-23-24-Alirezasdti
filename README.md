@@ -1,3 +1,5 @@
+exercises for computing and super computing
 # openmp WORK
 # CUDA WORK
-exercises for computing and super computing
+# MPI 
+
